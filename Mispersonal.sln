@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "F:\人事管理系统\", ".", "{2871EAD4-29B4-4D02-8849-A76621604AF9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/人事管理系统"
+		Debug.AspNetCompiler.PhysicalPath = "..\人事管理系统\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\人事管理系统\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/人事管理系统"
+		Release.AspNetCompiler.PhysicalPath = "..\人事管理系统\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\人事管理系统\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1452"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2871EAD4-29B4-4D02-8849-A76621604AF9}.Debug|.NET.ActiveCfg = Debug|.NET
+		{2871EAD4-29B4-4D02-8849-A76621604AF9}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
